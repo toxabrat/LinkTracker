@@ -1,0 +1,7 @@
+server:
+  port: 8090
+
+telegram:
+  bot:
+    token: ${TELEGRAM_BOT_TOKEN}
+    name: ${TELEGRAM_BOT_NAME:MyLinkTracker0_bot}
